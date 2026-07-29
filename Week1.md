@@ -2,5 +2,9 @@
 
 ## Identify Zones, Devices & Boundaries
 <img src="images/Screenshot week1.png" width="500">
+
 ## Defence in Depth & Layered Controls
 <img src="images/Screenshot week1.2.png" width="500">
+
+## Phishing Triage 
+<img src="images/Screenshot week1.3.png" width="500">
