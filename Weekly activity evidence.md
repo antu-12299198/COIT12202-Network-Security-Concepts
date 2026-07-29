@@ -24,3 +24,15 @@
 
 ## TLS 1.3 Handshake Walker
 <img src="images/Screenshot week 2.5.png" width="800">
+
+# Week 3: Password Security
+## Password Strength & Entropy
+<img src="images/Screenshot week3.1.png" width="800">
+
+## Attacks, Storage & Best Practices
+<img src="images/Screenshot week3.2.png" width="800">
+
+## Suspicious-Login Investigator
+<img src="images/Screenshot week3.3.png" width="800">
+
+
