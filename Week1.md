@@ -7,4 +7,4 @@
 <img src="images/Screenshot week1.2.png" width="500">
 
 ## Phishing Triage 
-<img src="images/Screenshot week1.3.png" width="500">
+<img src="images/Screenshot week 1.3.png" width="500">
