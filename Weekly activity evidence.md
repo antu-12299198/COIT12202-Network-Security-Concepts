@@ -35,6 +35,14 @@
 ## Suspicious-Login Investigator
 <img src="images/Screenshot week3.3.png" width="800">
 
-# Week 4: Coming Soon
+# Week 4: SSH & Secure Administration
+## SSH Foundations
+<img src="images/Screenshot week4.1.png" width="800">
 
+## SSH in Practice
+<img src="images/Screenshot week4.2.png" width="800">
+
+# Week 2: Cryptography & PKI
+## Cert Chain Walker
+<img src="images/Screenshot week4.3.png" width="800">
 
