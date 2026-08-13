@@ -78,15 +78,4 @@ A two-tier CA structure separates the Root CA from certificate-issuing operation
 
 HTTPS protects communication between the client and server using TLS. Certificate verification also allows the client to confirm the identity of the server before communicating with it.
 
-## Evidence
 
-The following evidence is included in this directory:
-
-- GNS3 project file
-- PKI/HTTPS commands
-- Configuration information
-- Network topology screenshot
-- Intermediate CA verification
-- Certificate-chain verification
-- Successful HTTPS verification
-- Wireshark TLS capture
