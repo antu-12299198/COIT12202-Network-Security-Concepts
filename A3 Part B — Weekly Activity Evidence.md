@@ -17,5 +17,12 @@
 ## Firewall Rule Evaluation
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/fe42dc7b-9a7d-4b1a-8764-a56efb37abe0" />
 
-# Week 7: 
+# Week 7: VPN Technologies — Securing Data Across Untrusted Networks
+
+## VPN Fundamentals Check
+<img width="1917" height="1148" alt="image" src="https://github.com/user-attachments/assets/db3d61f2-f1eb-4928-944a-8c352393c02e" />
+
+## VPN Protocols and Security
+
+
 
